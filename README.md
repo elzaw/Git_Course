@@ -1,4 +1,4 @@
 # Git_Course
-Learning Git
+Learning how to use Git 
 
 ## project notes
